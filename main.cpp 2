@@ -1,3 +1,5 @@
+#include <iostream>
+
 int main() {
     const int MAX_SIZE = 100; // Максимальний розмір масиву (встановіть за потребою)
     int A[MAX_SIZE];          // Масив
